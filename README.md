@@ -84,4 +84,8 @@
 
 ---
 
+### Additional Resources
+- [SenseHAT Docs](https://sense-hat.readthedocs.io/en/latest/)
+- [GPIO Recipies/Guides](https://gpiozero.readthedocs.io/en/latest/recipes.html#)
 
+---
