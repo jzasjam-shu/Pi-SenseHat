@@ -85,7 +85,8 @@
 ---
 
 ### Additional Resources
-- [SenseHAT Docs](https://sense-hat.readthedocs.io/en/latest/)
+- [SenseHAT Docs](https://sense-hat.readthedocs.io)
+- [Sense HAT Guide](https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat)
 - [GPIO Recipies/Guides](https://gpiozero.readthedocs.io/en/latest/recipes.html#)
 
 ---
