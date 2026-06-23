@@ -32,7 +32,7 @@
    git clone https://github.com/jzasjam-shu/Pi-SenseHat.git
    ```
 
-   <img width="653" height="210" alt="image" src="https://github.com/user-attachments/assets/43fecd74-98d4-4a91-aa6e-b2332a6981c1" />
+   <img width="656" height="196" alt="image" src="https://github.com/user-attachments/assets/b4d1e4ec-efc5-4094-a7fd-160e04a8d553" />
 
 
 ### 5. Enter the repository directory:
