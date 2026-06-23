@@ -6,9 +6,14 @@
 
 **Description:** Example code and guides for using the Raspberry Pi Sense HAT.
 
+**Introductory Slides:** [Google Slides](https://docs.google.com/presentation/d/11kjfUA7y1wN6u6KTTDqKMyE-SACJ7qHDdcWYVI_QLaA/edit?usp=sharing)
+
 ## Setup Instructions
 
 ### 1. Open a new **Terminal** window on the Raspberry Pi.
+
+<img width="511" height="607" alt="image" src="https://github.com/user-attachments/assets/8098fcb5-dc91-4fbf-b3c0-a5e34d9b2050" />
+
 
 ### 2. If you are currently using a virtual environment, deactivate it using:
 
